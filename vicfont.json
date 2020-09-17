@@ -1,0 +1,13 @@
+{
+    "name": "vicfont",
+    "dataColors": ["#007B4B", "#004C97"],
+    "visualStyles":{
+        "*": {
+            "*": {
+                "*":  [{
+                        "fontFamily": "VIC"
+                    }]
+            }
+        }
+    }
+}
